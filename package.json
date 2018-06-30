@@ -1,0 +1,16 @@
+{
+  "name": "kb",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Emailurgency knowledge base",
+  "author": "Enrico Deleo <hello@enricodeleo.com>",
+  "license": "UNLICENSED",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "devDependencies": {
+    "eslint": "^5.0.1",
+    "vuepress": "^0.10.2"
+  }
+}
