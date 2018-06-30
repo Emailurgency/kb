@@ -6,6 +6,7 @@ module.exports = {
   title: 'Emailurgency',
   description: 'Embed dynamic timers that show real remaining time for your special event and get results.',
   serviceWorker: true, // automatically generate a service worker that caches the content for offline use (production)
+  dest: 'dist',
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
