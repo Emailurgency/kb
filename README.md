@@ -1,7 +1,6 @@
 ---
 home: true
 title: Knowledge Base
-heroImage: /logo.png
 actionText: Get Started →
 actionLink: /guide/
 features:

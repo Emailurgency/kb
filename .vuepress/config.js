@@ -14,4 +14,11 @@ module.exports = {
       { text: 'Website', link: 'https://emailurgency.com' },
     ],
   },
+  configureWebpack: {
+    resolve: {
+      alias: {
+        '@images': '/images',
+      },
+    },
+  },
 };
