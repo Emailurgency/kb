@@ -1,0 +1,9 @@
+{
+  "schemaVersion" :1 ,
+  "dockerfileLines" :[
+    "FROM nginx:alpine",
+    "LABEL maintainer=\"Enrico Deleo <hello@enricodeleo.com>\"",
+    "COPY ./src/dist /usr/share/nginx/html",
+    "EXPOSE 80"
+  ]
+}
