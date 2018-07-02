@@ -14,6 +14,11 @@ module.exports = {
       { text: 'Changelog', link: 'https://headwayapp.co/emailurgency-release-notes' },
       { text: 'Website', link: 'https://emailurgency.com' },
     ],
+    sidebar: [
+      '/',
+      '/guide/pricing.html',
+      '/guide/create.html',
+    ],
   },
   configureWebpack: {
     resolve: {
