@@ -18,6 +18,7 @@ module.exports = {
       '/',
       '/guide/pricing.html',
       '/guide/create.html',
+      '/guide/usage.html',
     ],
   },
   configureWebpack: {
