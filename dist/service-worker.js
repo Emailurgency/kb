@@ -21,11 +21,19 @@ importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.3.1/workbox
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "085231ec6bea1e456f6e211a4f97c50f"
+    "revision": "86b78b64c23bbd72a99090b4c53434e9"
   },
   {
-    "url": "assets/css/5.styles.a914308c.css",
+    "url": "assets/css/6.styles.2bc8fde9.css",
     "revision": "b64c1396ffb70dd78d560e5d9a338986"
+  },
+  {
+    "url": "assets/img/download-button.8f57c4e9.png",
+    "revision": "8f57c4e91d4e1e4ff3d90ef9c9fec7dc"
+  },
+  {
+    "url": "assets/img/new-button.c1840054.png",
+    "revision": "c184005465ed96facb3c17840a6188fd"
   },
   {
     "url": "assets/img/search.83621669.svg",
@@ -108,48 +116,56 @@ self.__precacheManifest = [
     "revision": "96286490bf0ffc2f3cb62f9ad89616cb"
   },
   {
-    "url": "assets/js/0.5871ce04.js",
-    "revision": "418f7ad8658c6ce7edac663d4c40c47c"
+    "url": "assets/js/0.534d4360.js",
+    "revision": "0db491885396278a79dcf0a8aac0bc91"
   },
   {
-    "url": "assets/js/1.06eedb37.js",
-    "revision": "6d4507b50ec6e4c52ed783f9d34e71fc"
+    "url": "assets/js/1.116713fd.js",
+    "revision": "a365d348b689bac9d6e39f94cbcd1ecb"
   },
   {
-    "url": "assets/js/2.a31b105e.js",
-    "revision": "7f8053bb19d525f1a0c25229e2c02722"
+    "url": "assets/js/2.9988fdbb.js",
+    "revision": "7bdf8bf5991a62308728ac801b9c33e1"
   },
   {
-    "url": "assets/js/3.0fe53e3d.js",
-    "revision": "04296b0eea96b8999ae5ea9ba03217db"
+    "url": "assets/js/3.4d7222bb.js",
+    "revision": "a2facd60698f095de301ed4ccb50dc75"
   },
   {
-    "url": "assets/js/4.0e380fc3.js",
-    "revision": "ad419126f516b91ab8639f7ea554cf0c"
+    "url": "assets/js/4.e9099cd8.js",
+    "revision": "e634eb88c1fc16c24a5e2a3474082520"
   },
   {
-    "url": "assets/js/app.4ad234ea.js",
-    "revision": "d1caa52cee98a7befba974ef540fb806"
+    "url": "assets/js/5.bbb614b6.js",
+    "revision": "520b323700123d58af02b7033590b7e5"
   },
   {
-    "url": "guide/create.html",
-    "revision": "ef66ef4e38c13aaa08c9d451db35d88e"
+    "url": "assets/js/app.0f74390a.js",
+    "revision": "6e5d1ff28078c0fa2ae10f3f831ef137"
+  },
+  {
+    "url": "guide/animated-buttons.html",
+    "revision": "91cb6ef451dbf439a10946e03e928bfc"
+  },
+  {
+    "url": "guide/create-countdown.html",
+    "revision": "d65dc74ea576cf5f44cc2333c74c59a1"
   },
   {
     "url": "guide/index.html",
-    "revision": "465928857ddee3dd6e5b4d6d4351387d"
+    "revision": "6e5fb08e8dbafe7a5bf3769d44279d5b"
   },
   {
     "url": "guide/pricing.html",
-    "revision": "68cd387ad2d82c19af609e072bf702fd"
+    "revision": "b67a41c5064507f383f7b227a6cd00cf"
   },
   {
-    "url": "guide/usage.html",
-    "revision": "7ddb0e7e62ec8217ed128881d3cdb65d"
+    "url": "guide/use-countdown.html",
+    "revision": "9773e2f8ae4ab8de6a2661d48e76bcd4"
   },
   {
     "url": "index.html",
-    "revision": "b85b69cbb68ee5ae916dd3756f5c918a"
+    "revision": "ffd81a83b15e62485c12e6f76f6c27ad"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();

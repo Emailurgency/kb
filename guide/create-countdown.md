@@ -1,4 +1,4 @@
-# Create
+# Create a Countdown
 
 [Login to the dashboard](https://app.emailurgency.com/login) and click on create _Countdowns->Create_.
 

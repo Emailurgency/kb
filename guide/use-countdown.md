@@ -1,4 +1,4 @@
-# Usage
+# Countdown Usage
 
 To use a countdown you just have to embed it as an image into your next email or landing page.
 

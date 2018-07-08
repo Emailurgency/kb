@@ -28,8 +28,9 @@ module.exports = {
     sidebar: [
       '/',
       '/guide/pricing.html',
-      '/guide/create.html',
-      '/guide/usage.html',
+      '/guide/create-countdown.html',
+      '/guide/use-countdown.html',
+      '/guide/animated-buttons.html',
     ],
   },
   configureWebpack: {

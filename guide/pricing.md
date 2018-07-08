@@ -9,6 +9,10 @@ Every subscription plan has a fixed part that covers access to features, number 
 **Views** are counted everytime an user actually see your countdown. We do not count views performed within your personal dashboard (so feel free to work on and preview them as much as you want :smile:).
 :::
 
+::: tip Free Buttons
+Since we generate animated buttons for download, you will embed them directly on your emails so they won't increase your views. Yey!
+:::
+
 ## Plans
 
 ### Free forever
