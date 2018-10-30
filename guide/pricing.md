@@ -15,18 +15,12 @@ Since we generate animated buttons for download, you will embed them directly on
 
 ## Plans
 
-### Free forever
+### All Inclusive
 
-With  the free plan you can have a maximum of 1 countdown at a time and you get 100 monthly views for free. Each additional view is calculated at € 0.01 each.
+An simple, unique price that unlocks all the features such as **_dynamic date countdowns_**, **views analytics**, **animated buttons** with **100000 monthly countdowns views included** and a price for exceeding view of € 0,005.
 
-### Smart
+## Activation
 
-Smart plan adds more features such as **_dynamic date countdowns_** and **views analytics**. You get **50000 monthly views included** and a price for exceeding view of € 0,005.
+You can [create an account for free now](https://app.emailurgency.com/register) and use without limits. Once you're ready to use your creativities, you can [activate anytime from the dashboard](https://app.emailurgency.com/upgrade).
 
-### Business
-
-Business gives you all the features of Smart **without analytics and concurrent countdowns limits**. You get **100000 monthly views included** and a price for exceeding view of € 0,002.
-
-## Upgrading
-
-You can always [uprade your plan from the dashboard](https://app.emailurgency.com/upgrade). Upgrade applies immediately and you're required to add a valid credit card.
+Upgrade applies immediately and you're required to add a valid credit card.
