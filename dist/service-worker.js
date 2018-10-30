@@ -21,7 +21,7 @@ importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.3.1/workbox
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "86b78b64c23bbd72a99090b4c53434e9"
+    "revision": "35cfb76b8e72c3205f3745fe0d157d06"
   },
   {
     "url": "assets/css/6.styles.2bc8fde9.css",
@@ -120,8 +120,8 @@ self.__precacheManifest = [
     "revision": "0db491885396278a79dcf0a8aac0bc91"
   },
   {
-    "url": "assets/js/1.116713fd.js",
-    "revision": "a365d348b689bac9d6e39f94cbcd1ecb"
+    "url": "assets/js/1.d8ec2c30.js",
+    "revision": "ebb154a8a4857d3dba3acc7817bb449f"
   },
   {
     "url": "assets/js/2.9988fdbb.js",
@@ -140,32 +140,32 @@ self.__precacheManifest = [
     "revision": "520b323700123d58af02b7033590b7e5"
   },
   {
-    "url": "assets/js/app.0f74390a.js",
-    "revision": "6e5d1ff28078c0fa2ae10f3f831ef137"
+    "url": "assets/js/app.c20cc640.js",
+    "revision": "ed744c7092bee69e35c801d4a086d35a"
   },
   {
     "url": "guide/animated-buttons.html",
-    "revision": "91cb6ef451dbf439a10946e03e928bfc"
+    "revision": "9023de07ee715f00083a5fd40a4cb102"
   },
   {
     "url": "guide/create-countdown.html",
-    "revision": "d65dc74ea576cf5f44cc2333c74c59a1"
+    "revision": "4732b1247873ef0259d6c9c816e72bfe"
   },
   {
     "url": "guide/index.html",
-    "revision": "6e5fb08e8dbafe7a5bf3769d44279d5b"
+    "revision": "e2e15c6f682f8ca2ead307d29f7ad9cc"
   },
   {
     "url": "guide/pricing.html",
-    "revision": "b67a41c5064507f383f7b227a6cd00cf"
+    "revision": "1fc4a5134918c9b4fe95b77298054a3c"
   },
   {
     "url": "guide/use-countdown.html",
-    "revision": "9773e2f8ae4ab8de6a2661d48e76bcd4"
+    "revision": "1202c138fd7410bb0b948518ce985f37"
   },
   {
     "url": "index.html",
-    "revision": "ffd81a83b15e62485c12e6f76f6c27ad"
+    "revision": "a9cdea4bc1f06ed4758c1214b4a0b59d"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
